@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/drawable-v24/ic_dashboard.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/drawable/ic_dashboard.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/drawable/ic_notification.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/drawable/ic_settings.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/activity_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/activity_home.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/activity_music.xml" value="0.1543918918918919" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/books_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/favorite_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/music_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/nct127_fragment.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/nct_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/nctdream_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/nctu_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/nctufragment.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/layout/settings_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ButtonNavWFragment_alifa_042/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
